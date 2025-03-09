@@ -14,16 +14,16 @@ Veendu, et sul on installitud järgmised tööriistad:
 
 2. Projekti kloonimine
 
-Ava terminal (Command Prompt, PowerShell või VS Code terminal) ja klooni projekt oma arvutisse:
-
-git clone [SIIN_PROJEKTI_GITHUBI_LINK]
-cd [PROJEKTI_KAUSTA_NIMI]
+    Ava terminal (Command Prompt, PowerShell või VS Code terminal) ja klooni projekt oma arvutisse:
+    
+        git clone [SIIN_PROJEKTI_GITHUBI_LINK]
+        cd [PROJEKTI_KAUSTA_NIMI]
 
 3. Vajalike sõltuvuste installimine
 
-Paigalda projekti jaoks vajalikud paketid, käivitades järgmise käsu:
+    Paigalda projekti jaoks vajalikud paketid, käivitades järgmise käsu:
 
-npm install
+        npm install
 
 
 4. Rakenduse käivitamine füüsilises seadmes
@@ -34,21 +34,21 @@ npm install
 
     Käivita rakendus terminalis:
 
-npm start
+        npm start
 
-või
+    või
 
-    expo start
+        expo start
 
     Ilmub QR-kood – skaneeri see Expo Go rakendusega.
 
 5. Rakenduse käivitamine emulaatoris
 
-Kui soovid testida rakendust emulaatoris, veendu, et sul on:
+    Kui soovid testida rakendust emulaatoris, veendu, et sul on:
 
     Android Studio paigaldatud
     Virtuaalne Android seade loodud (Device Managerist)
 
-Seejärel käivita terminalis:
+    Seejärel käivita terminalis:
 
-npm run android
+        npm run android
