@@ -3,14 +3,15 @@ TLÜ Mobiilirakenduste arendamise tunnis rakenduse loomine, kasutades React Nati
 
 
 React Native projekti seadistamise juhend
+
 1. Nõuded enne alustamist
 
-Veendu, et sul on installitud järgmised tööriistad:
+    Veendu, et sul on installitud järgmised tööriistad:
 
-    Node.js
-    Git 
-    VS Code (või mõni muu koodiredaktor) 
-    Android Studio (kui soovid kasutada emulaatorit)
+        Node.js
+        Git 
+        VS Code (või mõni muu koodiredaktor) 
+        Android Studio (kui soovid kasutada emulaatorit)
 
 2. Projekti kloonimine
 
