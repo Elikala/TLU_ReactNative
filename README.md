@@ -37,10 +37,6 @@ React Native projekti seadistamise juhend
 
         npm start
 
-    või
-
-        expo start
-
     Ilmub QR-kood – skaneeri see Expo Go rakendusega.
 
 5. Rakenduse käivitamine emulaatoris
