@@ -49,3 +49,27 @@ React Native projekti seadistamise juhend
     Seejärel käivita terminalis:
 
         npm run android
+
+
+### **Projekti loomine ja seadistamine**
+
+- Esmalt lõin **GitHubis uue repositooriumi**, kuhu kogu projektikood salvestada. Seejärel uurisin, kuidas luua uus React Native projekt, ning leidsin ametliku juhendi:
+    
+    https://reactnative.dev/docs/0.77/environment-setup
+    
+- **Kloonisin** loodud repositooriumi oma arvutisse.
+- **Lõin React Native projekti** kasutades VS Code'i.
+- **Paigaldasin Android Studio** ja seadistasin sinna virtuaalse Android-seadme.
+
+### **Rakenduse testimine seadmetes**
+
+- Kui projekt oli loodud, katsetasin selle töötamist erinevates keskkondades:
+- **Füüsilises seadmes:** Kasutasin **Expo Go** rakendust, et rakendus oma telefonis käivitada.
+- **Emulaatoris:** Käivitasin rakenduse **Android Studio** emulaatoris ja veendusin, et see töötab ka seal.
+
+Mis oli kerge?
+
+- Olen varem sarnast projekti seadistanud, seega ei olnud React Native projekti tööle saamine ega GitHubi lisamine eriti keeruline. Samuti ei valmistanud raskusi Android Studio installimine ja füüsilise seadme ühendamine. Küll aga võttis kogu protsess aega.
+
+Mis oli raske?
+* Debuggeri tööle saamine oli keeruline.
